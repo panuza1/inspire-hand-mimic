@@ -1,0 +1,6 @@
+[submodule "hand-gesture-recognition-mediapipe"]
+	path = hand-gesture-recognition-mediapipe
+	url = https://github.com/panuza1/hand-gesture-recognition-mediapipe.git
+[submodule "inspire_hands"]
+	path = inspire_hands
+	url = https://github.com/panuza1/inspire_hands.git
