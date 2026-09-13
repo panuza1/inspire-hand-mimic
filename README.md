@@ -11,7 +11,7 @@ The recognizer can run by itself for testing. The Inspire Hand package can also 
 
 ## Demo
 
-<video controls width="100%" src="https://github.com/panuza1/inspire-hand-mimic/raw/refs/heads/main/video/inspire-hand-mimic-horizontal.mp4">
+<video controls width="100%" src="https://raw.githubusercontent.com/panuza1/inspire-hand-mimic/main/video/inspire-hand-mimic-horizontal.mp4">
   Your browser does not support embedded video. [Open the MP4](video/inspire-hand-mimic-horizontal.mp4).
 </video>
 
