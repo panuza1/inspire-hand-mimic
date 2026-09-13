@@ -13,7 +13,7 @@ The recognizer can run by itself for testing. The Inspire Hand package can also 
 
 ![Inspire Hand Mimic demo](video/inspire-hand-mimic-preview.gif)
 
-[Open the full horizontal `.mp4` demo](video/inspire-hand-mimic-horizontal.mp4)
+[Click Here to Watch the Full Video](https://www.youtube.com/watch?v=kvU2HbJ3qNU)
 
 ## Architecture
 
